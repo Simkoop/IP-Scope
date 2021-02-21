@@ -1,0 +1,13 @@
+C:\Users\Sim\source\repos\IPScanner\IPScanner\bin\Release\IPScanner.exe.config
+C:\Users\Sim\source\repos\IPScanner\IPScanner\bin\Release\IPScanner.exe
+C:\Users\Sim\source\repos\IPScanner\IPScanner\bin\Release\IPScanner.pdb
+C:\Users\Sim\source\repos\IPScanner\IPScanner\obj\Release\IPScanner.csprojAssemblyReference.cache
+C:\Users\Sim\source\repos\IPScanner\IPScanner\obj\Release\IPScanner.DeviceView.resources
+C:\Users\Sim\source\repos\IPScanner\IPScanner\obj\Release\IPScanner.Form1.resources
+C:\Users\Sim\source\repos\IPScanner\IPScanner\obj\Release\IPScanner.Properties.Resources.resources
+C:\Users\Sim\source\repos\IPScanner\IPScanner\obj\Release\IPScanner.Settings.resources
+C:\Users\Sim\source\repos\IPScanner\IPScanner\obj\Release\IPScanner.UIDevice.resources
+C:\Users\Sim\source\repos\IPScanner\IPScanner\obj\Release\IPScanner.csproj.GenerateResource.cache
+C:\Users\Sim\source\repos\IPScanner\IPScanner\obj\Release\IPScanner.csproj.CoreCompileInputs.cache
+C:\Users\Sim\source\repos\IPScanner\IPScanner\obj\Release\IPScanner.exe
+C:\Users\Sim\source\repos\IPScanner\IPScanner\obj\Release\IPScanner.pdb
