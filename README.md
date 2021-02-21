@@ -73,4 +73,9 @@ The UI adjusts to your windows accent, giving a presonalized feel to the UI.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-
+1. Adjust settings to your liking by clicking the settings icon in the top right
+2. Then enter an IP Range 
+   - You can add a wildcard using *
+   - You can add a range using min-max
+3. Press scan and wait for the results
+4. Click on devices to view and edit their information
