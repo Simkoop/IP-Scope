@@ -39,7 +39,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](images/screenshot1.PNG)
+[![Product Name Screen Shot][product-screenshot]](https://raw.githubusercontent.com/Simkoop/IP-Scope/main/images/screenshot1.PNG
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
