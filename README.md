@@ -39,9 +39,22 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src="images/screenshot1.PNG" alt="Screenshot" width="784" height="437">
 
 A very simple and powerful IP Scanner for windows. It's simple to use, so everyone can use it.
+
+<img src="images/screenshot1.PNG" alt="Screenshot" width="784" height="437">
+
+Customizeable threads and timeout so you can find a perfect balance between speed and robustness.
+
+<img src="images/screenshot8.PNG" alt="Screenshot" width="784" height="437">
+
+Edit device info, which is saved accross sessions.
+
+<img src="images/screenshot7.PNG" alt="Screenshot" width="784" height="437">
+
+Compacts down to show just scan progress while it stays on top of all windows so you don't miss out on your scan results.
+
+<img src="images/screenshot9.PNG" alt="Screenshot" width="784" height="437">
 
 ### UI
 
