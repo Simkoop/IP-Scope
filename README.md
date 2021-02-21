@@ -54,7 +54,7 @@ Edit device info, which is saved accross sessions.
 
 Compacts down to show just scan progress while it stays on top of all windows so you don't miss out on your scan results.
 
-<img src="images/screenshot9.PNG" alt="Screenshot" width="784" height="437">
+<img src="images/screenshot9.PNG" alt="Screenshot" width="784" height="31">
 
 ### UI
 
