@@ -42,19 +42,19 @@
 
 A very simple and powerful IP Scanner for windows. It's simple to use, so everyone can use it.
 
-<img src="images/screenshot1.PNG" alt="Screenshot" width="784" height="437">
+<img src="images/screenshot1.PNG" alt="Screenshot" width="100%" height="auto">
 
 Customizeable threads and timeout so you can find a perfect balance between speed and robustness.
 
-<img src="images/screenshot8.PNG" alt="Screenshot" width="784" height="437">
+<img src="images/screenshot8.PNG" alt="Screenshot" width="100%" height="auto">
 
 Edit device info, which is saved accross sessions.
 
-<img src="images/screenshot7.PNG" alt="Screenshot" width="784" height="437">
+<img src="images/screenshot7.PNG" alt="Screenshot" width="100%" height="auto">
 
 Compacts down to show just scan progress while it stays on top of all windows so you don't miss out on your scan results.
 
-<img src="images/screenshot9.PNG" alt="Screenshot" width="784" height="31">
+<img src="images/screenshot9.PNG" alt="Screenshot" width="100%" height="auto">
 
 ### UI
 
